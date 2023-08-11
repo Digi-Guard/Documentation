@@ -1,5 +1,5 @@
 # Documentation
-The Documentation Repo contains the written elements required for accomplishing this project, including: Compliance Documentation, Security Incident Plan.
+The Documentation Repo contains the written elements required for accomplishing this project, including: Compliance Documentation and Security Incident Plan.
 <BR>
 
 ## Links to Resources
